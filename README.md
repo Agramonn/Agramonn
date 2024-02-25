@@ -71,13 +71,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Agramonn/Agramonn/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/12172230164">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=12172230164&count=5" alt="Spotify recently played"  />
   </a>

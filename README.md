@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pedro and I'm a .NET developer from Sonora, Mexico.</h2>
+<h2 align="left">Hi 👋! My name is Pedro and I'm a Biomedical Engineer with a passion for Software Development from Sonora, Mexico.</h2>
 
 ###
 
